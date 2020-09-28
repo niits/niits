@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**niits/niits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Trần Đức Trung 👋
 
-Here are some ideas to get you started:
+Computer Science student at [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/). Full-stack developer with passion for video games. Fascinated by everything that's CS related.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: I’m currently studying **Computer Science** at VNU University of Engineering and Technology
+- :sunny: I'm doing my internship at [Sun*](https://sun-asterisk.vn/)
+- :seedling: I’m currently learning **Computer Vision** at university and feel interested in **Web Development**
+- :star2: I have earned a lot of experience by working with **Nuxt** and **Laravel**
+
+### 📬 Get in Touch
+- GitHub: [niits](https://github.com/niits)
+- LinkedIn: [Trần Đức Trung](https://www.linkedin.com/in/niits/)
+- E-mail: trungtdxz@gmail.com
+
+### 📚 Looking for my Resume? E-Mail me!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niits&layout=compact&hide=css,html)
+
