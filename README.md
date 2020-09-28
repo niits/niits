@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, I'm Trần Đức Trung 👋
 
 Computer Science student at [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/). Full-stack developer with passion for video games. Fascinated by everything that's CS related.
