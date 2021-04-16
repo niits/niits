@@ -3,8 +3,8 @@
 Computer Science student at [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/)
 
 - I’m currently studying **Computer Science** at VNU University of Engineering and Technology
-- I'm doing my internship at [Sun*](https://sun-asterisk.vn/)
-- I’m currently learning **Computer Vision** at university and feel interested in **Web Development**
+- I'm working at [Sun*](https://sun-asterisk.vn/)
+- I’m currently learning **Computer Vision** at university and feel interested in it
 - I have earned a lot of experience by working with **Nuxt** and **Laravel**
 
 ### 📬 Get in Touch
